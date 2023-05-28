@@ -87,8 +87,8 @@ wechat:
 tencent:
   cloud:
     appId: 1306055100
-    secretId: AKIDZ3LQHyShgRx97rQlvrXx72h9qSxFI5dv
-    secretKey: 97swosiLmYChwviPt7UaPyHK6e092f2l
+    secretId: AKIDZ3L
+    secretKey: 97swosiLmYC
     face:
       groupName: hospital
       region: ap-beijing
